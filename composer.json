@@ -1,7 +1,7 @@
 {
   "name": "massimo-filippi/massimo-footer",
   "description": "Footer for our delicious websites",
-  "license": "MIT",
+  "license": "proprietary",
   "homepage": "https://github.com/massimo-filippi/massimo-footer",
   "minimum-stability": "dev",
   "prefer-stable": true,
